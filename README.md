@@ -3,6 +3,7 @@ Test project for SwiftUI new navigation API (availabled starting with iOS 16) ba
 
 This project uses [NavigationBackport](https://github.com/johnpatrickmorgan/NavigationBackport) package as a dependency. 
 
+Full demo video is [here](https://t.me/swiftui_dev/213).
 
   <p align="left">
   <img src="demo/demo.gif" alt="" height="300" width="300">
